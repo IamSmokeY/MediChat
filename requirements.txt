@@ -1,0 +1,9 @@
+torch
+numpy
+Pillow
+clip
+chromadb
+google-generativeai
+langchain
+tqdm
+python-dotenv
